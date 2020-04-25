@@ -1,0 +1,1 @@
+For this assignment you will implement several KNN classifiers on the MNIST data set. Create a Jupyter notebook that goes through each part of the assignment and presents evidence and analysis for your results. Submit your notebook file and a PDF of your notebook.
